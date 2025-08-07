@@ -4,11 +4,11 @@ This project is a fully responsive mobile-first website built using **ReactJS** 
 
 ## 🚀 Live Demo
 
-👉 [View Live Website](https://your-live-site-link.com)
+👉 [View Live Website](http://voluble-alpaca-96fba1.netlify.app)
 
 ## 📸 Preview
 
-![Responsive Preview](./preview.png)
+![Responsive Preview](https://youtu.be/QyyPww262Ww?si=ihKa-nYEJuA9P7fQ)
 
 ## 🛠️ Tech Stack
 
@@ -43,8 +43,8 @@ Visit `http://localhost:3000` in your browser.
 
 You can deploy the website easily on platforms like:
 
-- [Netlify](https://www.netlify.com/)
-- [Vercel](https://vercel.com/)
+- [Netlify](http://voluble-alpaca-96fba1.netlify.app)
+- [Vercel](http://voluble-alpaca-96fba1.netlify.app)
 - GitHub Pages (with some setup)
 
 ## 🧠 Learnings
@@ -58,7 +58,7 @@ This project helps beginners understand:
 
 ## 📺 YouTube Tutorial
 
-Watch the full tutorial here: [YouTube Video](https://youtube.com/your-video-link)
+Watch the full tutorial here: [YouTube Video](https://youtu.be/QyyPww262Ww?si=ihKa-nYEJuA9P7fQ)
 
 ---
 
@@ -76,4 +76,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-> Created by [Your Name](https://your-portfolio.com) | Follow me on [LinkedIn](https://linkedin.com/in/your-profile)
+> Created by feeroz khan | Follow me on [LinkedIn](https://www.linkedin.com/in/feeroz-khan-js-react/)
